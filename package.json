@@ -1,9 +1,9 @@
 {
-  "name": "@besated/@sei-js/proto",
+  "name": "@sei-js/proto",
   "version": "0.0.1",
   "description": "TypeScript library for Sei protobufs generated using Telescope",
   "author": "besated <bryan@seinetwork.io>",
-  "homepage": "https://github.com/besated/@sei-js/proto#readme",
+  "homepage": "https://github.com/sei-protocol/js-proto#readme",
   "license": "SEE LICENSE IN LICENSE",
   "main": "main/index.js",
   "typings": "types/index.d.ts",
@@ -33,11 +33,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/besated/@sei-js/proto"
+    "url": "https://github.com/sei-protocol/js-proto"
   },
   "keywords": [],
   "bugs": {
-    "url": "https://github.com/besated/@sei-js/proto/issues"
+    "url": "https://github.com/sei-protocol/js-proto/issues"
   },
   "devDependencies": {
     "@babel/cli": "7.18.10",
