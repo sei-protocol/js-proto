@@ -1,0 +1,1 @@
+# @sei-js/proto
