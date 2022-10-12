@@ -14,4 +14,6 @@ export * from "./gogoproto/bundle";
 export * from "./google/bundle";
 export * from "./ibc/bundle";
 export * from "./ibc/client";
+export * from "./seiprotocol/bundle";
+export * from "./seiprotocol/client";
 export * from "./tendermint/bundle";
